@@ -21,8 +21,7 @@ const Features = () => {
                       <div className="feature-card__content">
                         <h3 className="feature-title">Externalización</h3>
                         <p>
-                        La selección del número ganador se externaliza , mientras que la tecnología blockchain garantiza el registro y trazabilidad de todas las transacciones, brindando transparencia y confianza a los participantes
-
+                        La selección del número ganador se externaliza , mientras que la tecnología blockchain garantiza el registro y trazabilidad de todas las transacciones
                         </p>
                       </div>
                     </div>
@@ -52,7 +51,7 @@ const Features = () => {
                       <div className="feature-card__content">
                         <h3 className="feature-title">Seguridad</h3>
                         <p>
-                        Los datos de las rifas son verificables  ya que se registran en la blockchain, los dólares del premio están ligados al contrato inteligente, por lo tanto nadie tiene acceso a ellos, únicamente se liberan al número NFT ganador, el cual es congruente con el resultado de la lotería
+                        Los dólares del premio están ligados al contrato inteligente, nadie tiene acceso a ellos. Únicamente se liberan al número NFT ganador, el cual es congruente con el resultado de la lotería
                         </p>
                       </div>
                     </div>

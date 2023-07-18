@@ -14,9 +14,9 @@ const HowToPlay = () => {
         <div className="row">
           <div className="col-lg-6 text-sm-start text-center">
             <div className="section-header">
-              <span className="section-sub-title">Need to know about</span>
+              {/* <span className="section-sub-title">Need to know about</span> */}
               <h2 className="section-title">Como jugar</h2>
-              <p>Follow these 3 easy steps! </p>
+              <p>Sigue estos sencillos pasos! </p>
             </div>
           </div>
         </div>
@@ -30,7 +30,7 @@ const HowToPlay = () => {
                 <span className="play-card__number">01</span>
               </div>
               <div className="play-card__content">
-                <h3 className="play-card__title">Choose</h3>
+                <h3 className="play-card__title">Elige</h3>
                 <p>Register to RIFA & Choose your contest</p>
               </div>
             </div>
@@ -44,7 +44,7 @@ const HowToPlay = () => {
                 <span className="play-card__number">02</span>
               </div>
               <div className="play-card__content">
-                <h3 className="play-card__title">buy</h3>
+                <h3 className="play-card__title">Compra</h3>
                 <p>Pick Your Numbers & Complete your Purchase</p>
               </div>
             </div>
@@ -58,7 +58,7 @@ const HowToPlay = () => {
                 <span className="play-card__number">03</span>
               </div>
               <div className="play-card__content">
-                <h3 className="play-card__title">Win</h3>
+                <h3 className="play-card__title">Gana</h3>
                 <p>Start Dreaming, you&#39;re almost there</p>
               </div>
             </div>

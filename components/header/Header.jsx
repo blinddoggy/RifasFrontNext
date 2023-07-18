@@ -168,7 +168,7 @@ const Header = () => {
                     Winners
                   </Link>
                 </li> */}
-                <li
+                {/* <li
                   className={`menu_has_children ${
                     open === "pages" ? "open" : ""
                   }`}
@@ -195,10 +195,10 @@ const Header = () => {
                       </li>
                     ))}
                   </ul>
-                </li>
+                </li> */}
                 <li>
                   <Link href="/contact" onClick={() => setShow(false)}>
-                    contact
+                    contacto
                   </Link>
                 </li>
               </ul>

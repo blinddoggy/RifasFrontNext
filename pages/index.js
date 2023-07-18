@@ -36,7 +36,7 @@ export default function Home() {
       <Testimonial />
 
       {/*Support section */}
-      <Support />
+      {/* <Support /> */}
     </>
   );
 }

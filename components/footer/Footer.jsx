@@ -36,7 +36,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="container pt-120">
-        <div className="row pb-5 align-items-center">
+        {/* <div className="row pb-5 align-items-center">
           <div className="col-lg-4">
             <ul className="app-btn">
               <li>
@@ -70,7 +70,7 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-        </div>
+        </div> */}
         <hr />
         <div className="row py-5 align-items-center">
           <div className="col-lg-6">

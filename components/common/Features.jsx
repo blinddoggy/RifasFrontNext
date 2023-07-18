@@ -19,10 +19,10 @@ const Features = () => {
                         <Image src={feature_1} alt="image" />
                       </div>
                       <div className="feature-card__content">
-                        <h3 className="feature-title">Safe Service</h3>
+                        <h3 className="feature-title">Externalización</h3>
                         <p>
-                          Nulla ultricies in nulla ac efficitur. In vel neque
-                          arcu. Donec quis
+                        La selección del número ganador se externaliza , mientras que la tecnología blockchain garantiza el registro y trazabilidad de todas las transacciones, brindando transparencia y confianza a los participantes
+
                         </p>
                       </div>
                     </div>
@@ -33,10 +33,9 @@ const Features = () => {
                         <Image src={feature_3} alt="image" />
                       </div>
                       <div className="feature-card__content">
-                        <h3 className="feature-title">Network</h3>
+                        <h3 className="feature-title">Blockchain</h3>
                         <p>
-                          Nulla ultricies in nulla ac efficitur. In vel neque
-                          arcu. Donec quis
+                        La plataforma opera en la red de Binance Smart Chain, lo que permite una interacción rápida y eficiente con contratos y transacciones, ofreciendo una experiencia fluida a los usuarios
                         </p>
                       </div>
                     </div>
@@ -51,10 +50,9 @@ const Features = () => {
                         <Image src={feature_2} alt="image" />
                       </div>
                       <div className="feature-card__content">
-                        <h3 className="feature-title">Security</h3>
+                        <h3 className="feature-title">Seguridad</h3>
                         <p>
-                          Nulla ultricies in nulla ac efficitur. In vel neque
-                          arcu. Donec quis
+                        Los datos de las rifas son verificables  ya que se registran en la blockchain, los dólares del premio están ligados al contrato inteligente, por lo tanto nadie tiene acceso a ellos, únicamente se liberan al número NFT ganador, el cual es congruente con el resultado de la lotería
                         </p>
                       </div>
                     </div>
@@ -65,10 +63,10 @@ const Features = () => {
                         <Image src={feature_4} alt="image" />
                       </div>
                       <div className="feature-card__content">
-                        <h3 className="feature-title">Support</h3>
+                        <h3 className="feature-title">soporte</h3>
                         <p>
-                          Nulla ultricies in nulla ac efficitur. In vel neque
-                          arcu. Donec quis
+                        Brindamos soporte continuo las 24 horas del día para resolver cualquier consulta o inconveniente que los usuarios puedan tener
+
                         </p>
                       </div>
                     </div>
@@ -81,18 +79,18 @@ const Features = () => {
             <div className="section-header">
               {/* <span className="section-sub-title">An Exhaustive list of</span> */}
               <h2 className="section-title">NUestras Fortalezas</h2>
-              <p>
+              {/* <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
                 pretium, elit quis vehicula interdum, sem metus iaculis sapien,
                 sed bibendum lectus augue eu metus.
-              </p>
-              <a
+              </p> */}
+              {/* <a
                 href="#0"
                 className="d-flex align-items-center mt-3 justify-content-lg-start justify-content-center"
               >
                 Show all features
                 <i className="las la-angle-double-right text-danger"></i>
-              </a>
+              </a> */}
             </div>
           </div>
         </div>

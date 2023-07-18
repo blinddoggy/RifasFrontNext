@@ -12,8 +12,8 @@ const FaqBody = () => {
           <div className="col-lg-12">
             <div className="faq-top-wrapper pt-120">
               <div className="section-header text-center">
-                <span className="section-sub-title">You Have Questions</span>
-                <h2 className="section-title">WE HAVE ANSWERS</h2>
+                <span className="section-sub-title">Tu tienes preguntas</span>
+                <h2 className="section-title">NOSOTROS TENEMOS RESPUESTAS</h2>
                 <p>
                   Do not hesitate to send us an email if you can&#39;t find what
                   you&#39;re looking for.

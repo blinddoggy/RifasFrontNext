@@ -38,11 +38,34 @@ const Testimonial = () => {
               <h2 className="section-title">
                 Road Map
               </h2>
+              <h3>Julio - septiembre 2023</h3>
               <p>
-                With over 12 years of experience as the world’s leading online
-                lottery service provider. Find out what our members have to say
-                about us!
-              </p>
+              
+Investigación previa /
+Ideación de prototipo 1 / 
+Diseño y maquetado de la web /
+Integración de funciones blockchain /
+Lanzamiento de prototipo 1 (Beta) 
+</p>
+<h3>Octubre - Diciembre 2023</h3>
+<p>Nuevas modalidades de sorteos /
+Mejoras en la experiencia de usuario /
+Definición de identidad de marca /
+Diseño y prototipado de versión 1 /
+Nuevos contratos inteligentes para modalidades de sorteos /
+</p>
+<h3>Enero - marzo 2024</h3>
+<p>Lanzamiento de versión 1 /
+Estrategia de marketing /
+Colaboraciones </p>
+<h3>Abril - junio 2023</h3>
+<p>Análisis económico para Token nativo /
+Definición de tokenomics /
+Venta privada de tokens /
+Venta pública de tokens</p>
+
+
+              
             </div>
           </div>
         </div>

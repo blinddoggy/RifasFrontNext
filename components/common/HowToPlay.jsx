@@ -30,8 +30,8 @@ const HowToPlay = () => {
                 <span className="play-card__number">01</span>
               </div>
               <div className="play-card__content">
-                <h3 className="play-card__title">Elige</h3>
-                <p>Register to RIFA & Choose your contest</p>
+                <h3 className="play-card__title">Encuentra</h3>
+                <p>Explora nuestro sitio web y selecciona la opción Sorteos</p>
               </div>
             </div>
           </div>
@@ -45,7 +45,7 @@ const HowToPlay = () => {
               </div>
               <div className="play-card__content">
                 <h3 className="play-card__title">Compra</h3>
-                <p>Pick Your Numbers & Complete your Purchase</p>
+                <p>Elige el sorteo que más te guste y haz clic en Comprar</p>
               </div>
             </div>
           </div>
@@ -59,7 +59,7 @@ const HowToPlay = () => {
               </div>
               <div className="play-card__content">
                 <h3 className="play-card__title">Gana</h3>
-                <p>Start Dreaming, you&#39;re almost there</p>
+                <p>Confirma la compra en tu billetera y recibirás tu NFT como comprobante</p>
               </div>
             </div>
           </div>

@@ -16,8 +16,8 @@ const Footer = () => {
           <div className="col-lg-12">
             <div className="subscribe-area">
               <div className="left">
-                <span className="subtitle">Subscribe to Sorko</span>
-                <h3 className="title">To Get Exclusive Benefits</h3>
+                <span className="subtitle">Suscribete a Lott3rBlock.0</span>
+                <h3 className="title">Para Obtener Beneficios Exclusivos</h3>
               </div>
               <div className="right">
                 <form className="subscribe-form">
@@ -75,7 +75,7 @@ const Footer = () => {
         <div className="row py-5 align-items-center">
           <div className="col-lg-6">
             <p className="copy-right-text text-lg-start text-center mb-lg-0 mb-3">
-              Copyright © 2020.All Rights Reserved By <Link href="/">Rifa</Link>
+              Copyright © 2023.All Rights Reserved By <Link href="/">Assymetriqfrequency</Link>
             </p>
           </div>
           <div className="col-lg-6">

@@ -59,7 +59,7 @@ const Winner = () => {
               <p>
               En nuestras rifas, utilizamos la Lotería de Medellín en Colombia como fuente para determinar el número de NFT ganador.. Trabajamos en la red de bloques de Binance Smart Chain para garantizar transparencia y seguridad en cada paso del proceso.
 Creamos NFTs únicos que representan las rifas adquiridas. Utilizamos contratos inteligentes en red de bloques  para capturar automáticamente el número ganador basado en el resultado de la Lotería de Medellín. Esto asegura un proceso justo y confiable.
-Una vez que se determina el número ganador, entregamos los premios en forma de USDT de manera instantánea y automática. Así, puedes disfrutar de una experiencia emocionante y confiable al participar en nuestras rifas respaldadas por la Lotería de Medellín y la red de bloques de Binance Smart Chain.
+Una vez que se determina el número ganador, entregamos los premios en forma de USDT de manera instantánea y automática. Así, puedes disfrutar de una experiencia emocionante y confiable al participar en nuestras rifas en la red de bloques.
 
               </p>
             </div>
